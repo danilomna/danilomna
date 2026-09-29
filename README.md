@@ -20,7 +20,8 @@ hardware, firmware e industrialização.
 
 - 📡 **RF e circuitos integrados**: arquitetura de transmissores Sub-GHz e desenvolvimento de ASIC (fabless)
 - 🔌 **Hardware**: esquemático, layout de PCI, simulação, prototipagem, BOM e documentação para produção
-- 💾 **Firmware embarcado**: C/C++ bare-metal e HAL para microcontroladores ARM Cortex-M e ESP32
+- 💾 **Firmware embarcado**: C/C++ e Assembly, bare-metal e HAL, para microcontroladores ARM Cortex-M e ESP32
+- 📱 **Apps mobile**: aplicativos Flutter para Android e iOS com backend Firebase, integrados aos dispositivos
 - 🌐 **IoT e automação**: dispositivos conectados, controle de acesso, automação residencial e industrial
 - 🧪 **Testes e validação**: calibração de potência de RF, ensaios de alcance e conformidade
 
@@ -44,6 +45,8 @@ Datasheet disponível em [engeletron.com.br](https://engeletron.com.br/).
 **Linguagens**<br>
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -54,6 +57,12 @@ Datasheet disponível em [engeletron.com.br](https://engeletron.com.br/).
 ![ESP32](https://img.shields.io/badge/ESP32_/_ESP32--S3-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Silicon Labs](https://img.shields.io/badge/Silicon_Labs-D91E2A?style=flat-square&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+
+**Mobile e nuvem**<br>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 **Ferramentas de firmware**<br>
 ![Keil MDK](https://img.shields.io/badge/Keil_MDK-394049?style=flat-square&logo=arm&logoColor=white)
