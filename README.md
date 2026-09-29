@@ -43,44 +43,32 @@ Datasheet disponível em [engeletron.com.br](https://engeletron.com.br/).
 ### Tecnologias
 
 **Linguagens**<br>
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c,cpp,dart,python,powershell,bash" alt="C, C++, Dart, Python, PowerShell, Bash"><br>
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logoColor=white)
 
-**Microcontroladores e plataformas**<br>
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![ARM Cortex--M](https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=flat-square&logo=arm&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32_/_ESP32--S3-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Silicon Labs](https://img.shields.io/badge/Silicon_Labs-D91E2A?style=flat-square&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+**Embarcados e firmware**<br>
+<img src="https://skillicons.dev/icons?i=arduino" alt="Arduino"><br>
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ARM Cortex--M](https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32_/_ESP32--S3-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Silicon Labs](https://img.shields.io/badge/Silicon_Labs-D91E2A?style=for-the-badge&logoColor=white)
+![Keil MDK](https://img.shields.io/badge/Keil_MDK-394049?style=for-the-badge&logo=arm&logoColor=white)
+![STM32CubeMX](https://img.shields.io/badge/STM32CubeMX-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
+![Simplicity Studio](https://img.shields.io/badge/Simplicity_Studio-D91E2A?style=for-the-badge&logoColor=white)
 
 **Mobile e nuvem**<br>
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+<img src="https://skillicons.dev/icons?i=flutter,firebase,androidstudio,apple" alt="Flutter, Firebase, Android, iOS">
 
-**Ferramentas de firmware**<br>
-![Keil MDK](https://img.shields.io/badge/Keil_MDK-394049?style=flat-square&logo=arm&logoColor=white)
-![STM32CubeMX](https://img.shields.io/badge/STM32CubeMX-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white)
-![Simplicity Studio](https://img.shields.io/badge/Simplicity_Studio-D91E2A?style=flat-square&logoColor=white)
-![Doxygen](https://img.shields.io/badge/Doxygen-2C4AA8?style=flat-square&logoColor=white)
+**Hardware, RF e documentação**<br>
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![LTspice](https://img.shields.io/badge/LTspice-B51F2E?style=for-the-badge&logoColor=white)
+![RF Sub--GHz](https://img.shields.io/badge/RF_Sub--GHz_433_MHz-6A1B9A?style=for-the-badge&logoColor=white)
+![Doxygen](https://img.shields.io/badge/Doxygen-2C4AA8?style=for-the-badge&logoColor=white)
 
-**Hardware e simulação**<br>
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
-![LTspice](https://img.shields.io/badge/LTspice-B51F2E?style=flat-square&logoColor=white)
-![RF Sub--GHz](https://img.shields.io/badge/RF_Sub--GHz_433_MHz-6A1B9A?style=flat-square&logoColor=white)
-
-**Fluxo de trabalho**<br>
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux / WSL](https://img.shields.io/badge/Linux_/_WSL-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+**Ferramentas**<br>
+<img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode,visualstudio" alt="Git, GitHub, Linux, Windows, VS Code, Visual Studio"><br>
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ### Como trabalho
 
